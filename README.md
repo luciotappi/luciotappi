@@ -37,7 +37,7 @@ ___
 ####    :heavy_check_mark: Python base ML scripts.
 ####    :heavy_check_mark: ...and more.
 ___
-### 📫 If you are interested in reach out me: 
+### 📫 If you are interested in reaching out me: 
 <p align="left">
 <a href="https://linkedin.com/in/luciotappi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciotappi" height="15" width="20" /> linkedin</a>
  <p align="left">
