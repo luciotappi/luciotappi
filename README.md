@@ -2,11 +2,11 @@
 
 ### My name is Lucio Tappi.
 
-#### - :mortar_board:  I'am 29 years old and i have a degree on Electrical Engineer.
+#### - :mortar_board:  I'am 31 years old and i have a degree on Electronics Engineer.
 
 ___
 
-#### - :books: I'm currently learning about web develop, Machine Learning and uC programming. 
+#### - :books: I'm currently learning about web development and Data Analytics. 
 
 #### - Some skills i have :arrow_down: :
 
@@ -18,23 +18,43 @@ ___
 <p align="left"><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p> 
 
 ##### - Databases
-<p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>  
+<p align="left">
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/?hl=es-419" target="_blank rel="noreferrer"><img src="https://firebase.google.com/images/lockup.svg" alt="firebase" width="80" height="40"/></a>
+<a href="https://www.mongodb.com" target="_blank rel="noreferrer"><img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress"  alt="mongoDB" width="40" height="40"/></a>
+<a href="https://www.microsoft.com/es-ar/microsoft-365/access" target="_blank rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Microsoft_Access_2013-2019_logo.svg"  alt="MSAccess" width="40" height="40"/></a>
+
+
+ </p>  
+
+##### - Data Analysis
+
+<p align="left">
+<a href="https://www.microsoft.com/es-es/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://images.datacamp.com/image/upload/v1714478776/re388xshtgihucfiiavf.png" alt="mysql" width="70" height="70"/> </a>
+
+
+
+ </p> 
+
+
 
 ##### - Machine Learning
   
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-  ##### - uC
+<!--  ##### - uC
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
-
+-->
 #### - Other
 <p align="left"> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
 
 #### - Here you'll find personal projects  about: 
 ####    :heavy_check_mark: Visual Basic
-####    :heavy_check_mark: Arduino
-####    :heavy_check_mark: Front end apps
-####    :heavy_check_mark: Python base ML scripts.
+####    :heavy_check_mark: C#
+####    :heavy_check_mark: Power Bi
+<!-- ####    :heavy_check_mark: Arduino --!>
+####    :heavy_check_mark: Javascript fullstack web apps
+<!-- ####    :heavy_check_mark: Python base ML scripts. --!>
 ####    :heavy_check_mark: ...and more.
 ___
 ### 📫 If you are interested in reaching out me: 
