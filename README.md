@@ -52,9 +52,9 @@ ___
 ####    :heavy_check_mark: Visual Basic
 ####    :heavy_check_mark: C#
 ####    :heavy_check_mark: Power Bi
-<!-- ####    :heavy_check_mark: Arduino --!>
+<!-- ####    :heavy_check_mark: Arduino -->
 ####    :heavy_check_mark: Javascript fullstack web apps
-<!-- ####    :heavy_check_mark: Python base ML scripts. --!>
+<!-- ####    :heavy_check_mark: Python base ML scripts. -->
 ####    :heavy_check_mark: ...and more.
 ___
 ### 📫 If you are interested in reaching out me: 
